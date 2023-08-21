@@ -18,7 +18,7 @@ async def botinfo(ctx):
     await ctx.send('Bot Is Made By Eveeify')
 
 # Read the token from the .env file
-with open('.env', 'r') as file:
-    token = file.read().strip("token")
+with open('../../.env', 'r') as file:
+    token = file.read().strip("DISCORD_TOKEN")
 
 bot.run(token)
