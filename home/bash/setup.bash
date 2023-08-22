@@ -1,6 +1,7 @@
 
 # Define the path to the .env file
-ENV_FILE="../.env"
+ENV_FILE="../../.env"
+
 
 # Check if .env file exists
 if [ ! -f $ENV_FILE ]; then
@@ -29,7 +30,7 @@ CODING_LANGUAGE=""
 
 # Keep asking for coding language until a valid one is entered
 while [[ ! "$CODING_LANGUAGE" =~ ^(rust|java|js|python|go|lua|ruby|kotlin|ts)$ ]]; do
-    echo "Please enter your preferred coding language (rust, java, js, python, go, lua, ruby, kotlin, ts):"
+    echo "Please enter your preferred coding language (langrages in readme):"
     read CODING_LANGUAGE
     # If the input is not one of the allowed languages, print an error message
     if [[ ! "$CODING_LANGUAGE" =~ ^(rust|java|js|python|go|lua|ruby|kotlin|ts)$ ]]; then
