@@ -22,3 +22,7 @@ go.work
 
 # Macos Files
 .DS_Store
+
+
+# Config Files 
+.env
