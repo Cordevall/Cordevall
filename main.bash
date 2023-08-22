@@ -5,5 +5,6 @@ echo "Running setup.bash now..."
 cd ./home/bash/
 sudo bash setup.bash
 echo "Finished running setup.bash."
+cd ../../.
     
 # Continue with the rest of the main.bash script...

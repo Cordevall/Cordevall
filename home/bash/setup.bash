@@ -1,3 +1,5 @@
+# ! Setup Bash Script
+
 
 # Define the path to the .env file
 ENV_FILE="../../.env"
