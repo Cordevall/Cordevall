@@ -1,9 +1,24 @@
-# Python Bot Section
-Discord Python Bot
-<!-- Divider Color #3776ab -->
-![Divider 1](src/assets/docs/dividers2.png)
+# Python Discord Bot
 
+This repository contains a Discord bot written in Python using the discord.py library.
 
-You must have Python 3 above to run
+## Features
 
+- The bot responds to a `!botinfo` command with a message about its creator.
+- When the bot is ready, it generates ASCII art and prints it in the console in blue color.
+
+### Prerequisites
+
+- Python 3.6 or higher
+- discord.py library
+- pyfiglet library
+- termcolor library
+
+### Installation
+1. Install the required Python libraries using pip:
+```bash
+pip install discord.py pyfiglet termcolor
+```
+
+## Creating an Env File 
 

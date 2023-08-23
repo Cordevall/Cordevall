@@ -2,20 +2,14 @@ mod eventhandler;
 
 use anyhow::anyhow;
 use serenity::prelude::*;
-use shuttle_secrets::SecretStore;
+use std::env;
 use eventhandler::Bot;
 
-
-#[shuttle_runtime::main]
-async fn serenity(
-    #[shuttle_secrets::Secrets] secret_store: SecretStore,
-) -> shuttle_serenity::ShuttleSerenity {
-    // Get the discord token set in `Secrets.toml`
-    let token = if let Some(token) = secret_store.get("DISCORD_TOKEN") {
-        token
-    } else {
-        return Err(anyhow!("'DISCORD_TOKEN' was not found").into());
-    };
+#[main]
+async fn serenity() -> Result<shuttle_serenity::ShuttleSerenity, Box<dyn std::error::Error>> {
+    // Get the discord token set in the environment
+    let token = env::var("DISCORD_TOKEN")
+        .map_err(|_| anyhow!("'DISCORD_TOKEN' was not found"))?;
 
     // Set gateway intents, which decides what events the bot will be notified about
     let intents = GatewayIntents::GUILD_MESSAGES | GatewayIntents::MESSAGE_CONTENT;

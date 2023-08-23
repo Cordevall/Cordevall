@@ -42,3 +42,58 @@ done
 
 # Save the valid coding language to the .env file
 echo "CODING_LANGUAGE=$CODING_LANGUAGE" >> $ENV_FILE
+
+# Define the directory to clone the repository into
+CLONE_DIR="/home"
+
+# Define the GitHub repository for each language
+case "$CODING_LANGUAGE" in
+  rust)
+    REPO_URL="https://github.com/your-org/rust-repo.git"
+    REPO_NAME="rust-repo"
+    ;;
+  java)
+    REPO_URL="https://github.com/your-org/java-repo.git"
+    REPO_NAME="java-repo"
+    ;;
+  js)
+    REPO_URL="https://github.com/your-org/js-repo.git"
+    REPO_NAME="js-repo"
+    ;;
+  python)
+    REPO_URL="https://github.com/your-org/python-repo.git"
+    REPO_NAME="python-repo"
+    ;;
+  go)
+    REPO_URL="https://github.com/your-org/go-repo.git"
+    REPO_NAME="go-repo"
+    ;;
+  lua)
+    REPO_URL="https://github.com/your-org/lua-repo.git"
+    REPO_NAME="lua-repo"
+    ;;
+  ruby)
+    REPO_URL="https://github.com/your-org/ruby-repo.git"
+    REPO_NAME="ruby-repo"
+    ;;
+  kotlin)
+    REPO_URL="https://github.com/your-org/kotlin-repo.git"
+    REPO_NAME="kotlin-repo"
+    ;;
+  ts)
+    REPO_URL="https://github.com/your-org/ts-repo.git"
+    REPO_NAME="ts-repo"
+    ;;
+  *)
+    echo "Invalid language. Please enter a valid language."
+    exit 1
+    ;;
+esac
+
+# If the repository already exists, delete it
+if [ -d "$CLONE_DIR/$REPO_NAME" ]; then
+  rm -rf "$CLONE_DIR/$REPO_NAME"
+fi
+
+# Clone the repository
+git clone $REPO_URL $CLONE_DIR/$REPO_NAME

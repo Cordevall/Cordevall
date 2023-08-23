@@ -21,19 +21,20 @@ case $CODING_LANGUAGE in
     ;;
   java)
     echo "Starting Java project..."
-     cd ../rust
+     cd ../java
     ;;
   js)
     echo "Starting JavaScript project..."
     # Add your JavaScript start command here
+    cd ../js
     ;;
   python)
     echo "Starting Python project..."
-    # Add your Python start command here
+    cd ../python
     ;;
   go)
     echo "Starting Go project..."
-    # Add your Go start command here
+    cd ../go
     ;;
   lua)
     echo "Starting Lua project..."
