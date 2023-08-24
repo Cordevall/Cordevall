@@ -11,7 +11,7 @@ Cordevall is an **exceptional open-source Discord bot service** that stands out 
 - <a href="https://github.com/Eveeifyeve/Go_DiscordBot">Rust</a>
 
 ### In Development
-- <a href="https://github.com/Eveeifyeve/Cordevall-Lua/tree/main#readmehttps://github.com/Eveeifyeve/Cordevall-Lua/tree/main#readme">Lua</a>
+- <a href="https://github.com/Eveeifyeve/Cordevall-Lua/tree/main#readme">Lua</a>
 
 ### Planned
 - Python
