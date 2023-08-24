@@ -1,6 +1,7 @@
 <a href="https://github.com/Eveeifyeve/Cordevall/tree/Main#readme">< Back to Cordevall</a>
 
 # Cordevall Alpha
+Open-sourced Discord Bot Templates for Everyone!
 <a href="https://github.com/Eveeifyeve/Cordevall/tree/Alpha#get-started-select-your-programming-language">Too lazy to scroll? Select a Programming Language here!</a>
 
 This is where we release test versions of Cordevall. These versions may be unstable and work in progress
@@ -18,6 +19,9 @@ Cord means "Discord"
 Dev means "Development"
 
 All means "For Everyone"
+
+## What we're testing:
+- We aren't currently testing anything right now, please try again later.
 
 ## Get started! Select your programming language.
 ### Released
