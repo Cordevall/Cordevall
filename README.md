@@ -1,4 +1,4 @@
-<a href="https://github.com/Eveeifyeve/Cordevall/blob/main/">< Back to Cordevall</a>
+<a href="https://github.com/Eveeifyeve/Cordevall/tree/Main#cordevall">< Back to Cordevall</a>
 
 # Cordevall Alpha
 <a href="https://github.com/Eveeifyeve/Cordevall/tree/Alpha#get-started-select-your-programming-language">Too lazy to scroll? Select a Programming Language here!</a>
