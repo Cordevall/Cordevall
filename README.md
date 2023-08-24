@@ -7,4 +7,4 @@ Cordevall is an **exceptional open-source Discord bot service** that stands out 
 ### Get started! Select your programming language.
 - <a href="https://github.com/Eveeifyeve/Eveeifys-JS-CordBot">JavaScript</a>
 - <a href="./python/README.md">Python (In Development)</a>
-- <a href="https://github.com/Eveeifyeve/Lua_DiscordBot">Lua (In Development)</a>
+- <a href="https://github.com/Eveeifyeve/Cordevall-Lua">Lua (In Development)</a>
