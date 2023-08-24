@@ -18,17 +18,18 @@ Dev means **"Development"**
 All means **"For Everyone"**
 
 ## Get started! Select your programming language.
+
 ### Released
-- <a href="https://github.com/Eveeifyeve/Cordevall-Go/tree/main#readme">Go</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall-Rust/tree/main#readme">Rust</a>
+- <a href="https://github.com/Eveeifyeve/Cordevall-JS/tree/main#readme">JavaScript</a>
 
 ### In Development
 - <a href="https://github.com/Eveeifyeve/Cordevall-Lua/tree/main#readme">Lua</a>
 - <a href="https://github.com/Eveeifyeve/Cordevall-Py/tree/main#readme">Python</a>
+- <a href="https://github.com/Eveeifyeve/Cordevall-Go/tree/main#readme">Go</a>
+- <a href="https://github.com/Eveeifyeve/Cordevall-Rust/tree/main#readme">Rust</a>
 
 ### Planned
 - <a href="https://github.com/Eveeifyeve/Cordevall-Java/tree/main#readme">Java</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall-JS/tree/main#readme">JavaScript</a>
 - <a href="https://github.com/Eveeifyeve/Cordevall-Ruby/tree/main#readme">Ruby</a>
 
 ### Test Versions:
