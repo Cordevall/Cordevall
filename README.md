@@ -8,11 +8,11 @@ Cordevall is an **exceptional open-source Discord bot service** that stands out 
 #### Cordevall
 Pronounced "Kaw-dev-all"
 
-Cord means Discord
+Cord means "Discord"
 
-Dev means Development
+Dev means "Development"
 
-All means For Everyone
+All means "For Everyone"
 
 ## Get started! Select your programming language.
 ### Released
