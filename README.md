@@ -17,6 +17,10 @@ Dev means **"Development"**
 
 All means **"For Everyone"**
 
+## Credits:
+- **eveeifyeve** - Creator of Cordevall
+- **StarryTheSuperstar** - Helped with the README.md files and Cordevall for Lua
+
 ## Get started! Select your programming language.
 
 ### Released
@@ -32,9 +36,7 @@ All means **"For Everyone"**
 - <a href="https://github.com/Eveeifyeve/Cordevall-Java/tree/main#readme">Java</a>
 - <a href="https://github.com/Eveeifyeve/Cordevall-Ruby/tree/main#readme">Ruby</a>
 
-## Credits:
-- **eveeifyeve** - Creator of Cordevall
-- **StarryTheSuperstar** - Helped with the README.md files and Cordevall for Lua
+
 
 ## Test Versions of Cordevall
 - <a href="https://github.com/Eveeifyeve/Cordevall/tree/Alpha#readme">Alpha</a>
