@@ -36,5 +36,5 @@ All means **"For Everyone"**
 - **eveeifyeve** - Creator of Cordevall
 - **StarryTheSuperstar** - Helped with the README.md files and Cordevall for Lua
 
-### Want to see Cordevall features before anyone else? Use our Alpha or Beta versions!
+## Test Versions of Cordevall
 - <a href="https://github.com/Eveeifyeve/Cordevall/tree/Alpha#readme">Alpha</a>
