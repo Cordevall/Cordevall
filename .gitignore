@@ -26,3 +26,11 @@ go.work
 
 # Config Files 
 .env
+
+# Repositories
+./home/go
+./home/py
+./home/java
+./home/ts
+./home/js
+
