@@ -1,7 +1,7 @@
 <a href="https://github.com/Eveeifyeve/Cordevall/blob/main/">< Back to Cordevall</a>
 
 # Cordevall Alpha
-<a href="https://github.com/Eveeifyeve/Cordevall/blob/alpha/README.md#get-started-select-your-programming-language">Too lazy to scroll? Select a Programming Language here!</a>
+<a href="https://github.com/Eveeifyeve/Cordevall/tree/Alpha#get-started-select-your-programming-language">Too lazy to scroll? Select a Programming Language here!</a>
 
 This is where we release test versions of Cordevall. These versions may be unstable and work in progress
 
