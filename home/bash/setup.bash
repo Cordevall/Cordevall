@@ -65,8 +65,8 @@ case "$CODING_LANGUAGE" in
     REPO_NAME="python-repo"
     ;;
   go)
-    REPO_URL="https://github.com/your-org/go-repo.git"
-    REPO_NAME="go-repo"
+    REPO_URL=""
+    REPO_NAME="go"
     ;;
   lua)
     REPO_URL="https://github.com/your-org/lua-repo.git"
@@ -97,3 +97,8 @@ fi
 
 # Clone the repository
 git clone $REPO_URL $CLONE_DIR/$REPO_NAME
+
+# If the language is Rust, change the current directory to the cloned repository
+if [ "$CODING_LANGUAGE" == "rust" ]; then
+  cd $CLONE_DIR/$REPO_NAME
+fi
