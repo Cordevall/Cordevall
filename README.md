@@ -1,5 +1,6 @@
 # Cordevall
-All of the **possible discord bots** in one repostory
+All of the **possible discord bots** in one repository
 
-<a href="./python/README.md">Python</a>
+## Get started! Select your programming language.
+- <a href="./python/README.md">Python</a>
 - <a href="https://github.com/Eveeifyeve/Lua_DiscordBot">Lua</a>
