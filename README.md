@@ -23,15 +23,3 @@ All means "For Everyone"
 
 ## What we're testing:
 - We aren't currently testing anything right now, please try again later.
-
-## Get started! Select your programming language.
-### Released
-- <a href="https://github.com/Eveeifyeve/Cordevall-Go/tree/main#readme">Go</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall-Rust/tree/main#readme">Rust</a>
-
-### In Development
-- <a href="https://github.com/Eveeifyeve/Cordevall-Lua/tree/main#readme">Lua</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall-Py/tree/main#readme">Python</a>
-
-### Planned
-- <a href="https://github.com/Eveeifyeve/Cordevall-JS/tree/main#readme">JavaScript</a>
