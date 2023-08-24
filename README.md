@@ -9,7 +9,7 @@ Cordevall is an **exceptional open-source Discord bot service** that stands out 
 ### Our Name and Definition:
 
 #### Cordevall
-Pronounced **"Kaw-dev-all"**
+Pronounced **"Kaw-dif-all"**
 
 Cord means **"Discord"**
 
