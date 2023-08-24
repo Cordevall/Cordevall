@@ -21,6 +21,8 @@ All means "For Everyone"
 - <a href="https://github.com/Eveeifyeve/Cordevall-Rust/tree/main#readme">Rust</a>
 
 ### In Development
-- <a href="https://github.com/Eveeifyeve/Cordevall-JS/tree/main#readme">JavaScript</a>
 - <a href="https://github.com/Eveeifyeve/Cordevall-Lua/tree/main#readme">Lua</a>
 - <a href="https://github.com/Eveeifyeve/Cordevall-Py/tree/main#readme">Python</a>
+
+### Planned
+- <a href="https://github.com/Eveeifyeve/Cordevall-JS/tree/main#readme">JavaScript</a>
