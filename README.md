@@ -27,6 +27,7 @@ All means **"For Everyone"**
 - <a href="https://github.com/Eveeifyeve/Cordevall-Py/tree/main#readme">Python</a>
 
 ### Planned
+- <a href="https://github.com/Eveeifyeve/Cordevall-Java/tree/main#readme">Java</a>
 - <a href="https://github.com/Eveeifyeve/Cordevall-JS/tree/main#readme">JavaScript</a>
 - <a href="https://github.com/Eveeifyeve/Cordevall-Ruby/tree/main#readme">Ruby</a>
 
