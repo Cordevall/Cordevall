@@ -28,6 +28,7 @@ All means **"For Everyone"**
 
 ### Planned
 - <a href="https://github.com/Eveeifyeve/Cordevall-JS/tree/main#readme">JavaScript</a>
+- <a href="https://github.com/Eveeifyeve/Cordevall-Ruby/tree/main#readme">Ruby</a>
 
 ### Test Versions:
 - <a href="https://github.com/Eveeifyeve/Cordevall/tree/Alpha#readme">Alpha</a>
