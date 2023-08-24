@@ -32,5 +32,5 @@ All means **"For Everyone"**
 - <a href="https://github.com/Eveeifyeve/Cordevall-Java/tree/main#readme">Java</a>
 - <a href="https://github.com/Eveeifyeve/Cordevall-Ruby/tree/main#readme">Ruby</a>
 
-### Test Versions:
+### Want to see Cordevall features before anyone else? Use our Alpha or Beta versions!
 - <a href="https://github.com/Eveeifyeve/Cordevall/tree/Alpha#readme">Alpha</a>
