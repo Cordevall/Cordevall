@@ -8,7 +8,7 @@ Cordevall is an **exceptional open-source Discord bot service** that stands out 
 ### Released
 - <a href="https://github.com/Eveeifyeve/Eveeifys-JS-CordBot">JavaScript</a>
 - <a href="https://github.com/Eveeifyeve/Go_DiscordBot">Go</a>
-- <a href="https://github.com/Eveeifyeve/Go_DiscordBot">Rust</a>
+- <a href="https://github.com/Eveeifyeve/Eveeifys-Rust-CordBot#eveeifys-rust-cordbot">Rust</a>
 
 ### In Development
 - <a href="https://github.com/Eveeifyeve/Cordevall-Lua/tree/main#readme">Lua</a>
