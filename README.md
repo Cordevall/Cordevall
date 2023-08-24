@@ -12,5 +12,5 @@ Cordevall is an **exceptional open-source Discord bot service** that stands out 
 ### In Development
 - <a href="https://github.com/Eveeifyeve/Cordevall-Lua">Lua</a>
 
-## Planned
+### Planned
 - Python
