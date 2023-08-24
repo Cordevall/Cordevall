@@ -28,4 +28,4 @@ All means "For Everyone"
 - <a href="https://github.com/Eveeifyeve/Cordevall-JS/tree/main#readme">JavaScript</a>
 
 ### Test Versions:
-- <a href="https://github.com/Eveeifyeve/Cordevall/tree/Alpha#cordevall-alpha">Alpha</a>
+- <a href="https://github.com/Eveeifyeve/Cordevall/tree/Alpha#readme">Alpha</a>
