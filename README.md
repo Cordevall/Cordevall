@@ -34,7 +34,7 @@ All means **"For Everyone"**
 ## Get started! Select your programming language.
 
 ### Testing
-- <a href="https://github.com/Eveeifyeve/Cordevall.js/tree/main#readme">JavaScript</a> (Compatable with APIs and Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall.js/tree/main#readme">.js (JavaScript)</a> (Compatable with APIs and Interactions)
 
 ### In Development
 - <a href="https://github.com/Eveeifyeve/Cordevall.lua/tree/main#readme">.lua (Lua)</a>
