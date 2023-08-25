@@ -35,6 +35,8 @@ All means **"For Everyone"**
 ### Planned
 - <a href="https://github.com/Eveeifyeve/Cordevall-Java/tree/main#readme">Java</a>
 - <a href="https://github.com/Eveeifyeve/Cordevall-Ruby/tree/main#readme">Ruby</a>
+- PHP
+- C#
 
 
 
