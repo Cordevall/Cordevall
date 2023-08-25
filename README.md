@@ -1,4 +1,4 @@
-<img src="./assets/md/dividers.png">
+
 
 <img src="./assets/md/cordevallbannerblurple.png">
 
