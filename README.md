@@ -23,21 +23,21 @@ All means **"For Everyone"**
 ## Get started! Select your programming language.
 
 ### Released
-- <a href="https://github.com/Eveeifyeve/Cordevall-JS/tree/main#readme">JavaScript</a>
+- <a href="https://github.com/Eveeifyeve/Cordevall-JS/tree/main#readme">JavaScript</a> (Compatable with APIs and Interactions)
 
 ### In Development
 - <a href="https://github.com/Eveeifyeve/Cordevall-Lua/tree/main#readme">Lua</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall-Py/tree/main#readme">Python</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall-Go/tree/main#readme">Go</a>
+- <a href="https://github.com/Eveeifyeve/Cordevall-Py/tree/main#readme">Python</a> (Compatable with Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall-Go/tree/main#readme">Go</a> (Compatable with APIs and Interactions)
 - <a href="https://github.com/Eveeifyeve/Cordevall-Rust/tree/main#readme">Rust</a>
 
 ### Planned
 - <a href="https://github.com/Eveeifyeve/Cordevall-Java/tree/main#readme">Java</a>
 - <a href="https://github.com/Eveeifyeve/Cordevall-Ruby/tree/main#readme">Ruby</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall-PHP/tree/main#readme">PHP</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall-Sharp/tree/main#readme">C#</a>
-- Clojure (for Interactions)
-- Dart (for Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall-PHP/tree/main#readme">PHP</a> (Compatable with Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall-Sharp/tree/main#readme">C#</a> (Compatable with Interactions)
+- Clojure (Library not Available, Compatable with Interactions)
+- Dart (Library not Available, Compatable with Interactions)
 
 ## Test Versions of Cordevall
 - <a href="https://github.com/Eveeifyeve/Cordevall/tree/Alpha#readme">Alpha</a>
