@@ -38,20 +38,20 @@ All means **"For Everyone"**
 - <a href="https://github.com/Eveeifyeve/Cordevall.js/tree/main#readme">JavaScript</a> (Compatable with APIs and Interactions)
 
 ### In Development
-- <a href="https://github.com/Eveeifyeve/Cordevall.lua/tree/main#readme">Lua</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall.py/tree/main#readme">Python</a> (Compatable with Interactions)
-- <a href="https://github.com/Eveeifyeve/Cordevall.go/tree/main#readme">Go</a> (Compatable with APIs and Interactions)
-- <a href="https://github.com/Eveeifyeve/Cordevall.rs/tree/main#readme">Rust</a>
+- <a href="https://github.com/Eveeifyeve/Cordevall.lua/tree/main#readme">.lua (Lua)</a>
+- <a href="https://github.com/Eveeifyeve/Cordevall.py/tree/main#readme">.py (Python)</a> (Compatable with Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall.go/tree/main#readme">.go (Go)</a> (Compatable with APIs and Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall.rs/tree/main#readme">.rs (Rust)</a>
 
 <img src="./assets/md/dividers.png">
 
 ### Planned
-- <a href="https://github.com/Eveeifyeve/Cordevall.java/tree/main#readme">Java</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall.rb/tree/main#readme">Ruby</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall.php/tree/main#readme">PHP</a> (Compatable with Interactions)
-- <a href="https://github.com/Eveeifyeve/Cordevall.cs/tree/main#readme">C#</a> (Compatable with Interactions)
-- <a href="https://github.com/Eveeifyeve/Cordevall.clj/tree/main#readme">Clojure</a> (Library not Available, Compatable with Interactions)
-- <a href="https://github.com/Eveeifyeve/Cordevall.dart/tree/main#readme">Dart</a> (Library not Available, Compatable with Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall.java/tree/main#readme">.jar (Java)</a>
+- <a href="https://github.com/Eveeifyeve/Cordevall.rb/tree/main#readme">.rb (Ruby)</a>
+- <a href="https://github.com/Eveeifyeve/Cordevall.php/tree/main#readme">.php (PHP)</a> (Compatable with Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall.cs/tree/main#readme">.cs (C#)</a> (Compatable with Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall.clj/tree/main#readme">.clj (Clojure)</a> (Library not Available, Compatable with Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall.dart/tree/main#readme">.dart (Dart)</a> (Library not Available, Compatable with Interactions)
 
 ## Test Versions of Cordevall
 - <a href="https://github.com/Eveeifyeve/Cordevall/tree/Alpha#readme">Alpha</a>
