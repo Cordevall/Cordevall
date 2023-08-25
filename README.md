@@ -6,7 +6,7 @@ Open-sourced Discord Bot Templates for Everyone!
 ## About Cordevall
 Cordevall is an **exceptional open-source Discord bot service** that stands out for its versatility and user-friendly approach. With support for multiple programming languages, including **JavaScript, Python, and Lua**, Cordevall offers a dynamic platform for bot enthusiasts of all coding backgrounds. Its rich library of simple tutorials makes installation and customization a breeze, even for beginners. Whether you're keen on crafting interactive experiences with JavaScript, leveraging the power of Python for data-driven functionalities, or delving into Lua for lightweight efficiency, Cordevall accommodates your preferences seamlessly. Elevating the bot development experience, Cordevall empowers users to bring their creative ideas to life in the Discord ecosystem with remarkable ease and efficiency. What are you waiting for? Use it today!
 
-### Our Name and Definition:
+### Our Name and Name Meanings:
 
 **Cordevall** ("Kaw-dif-all")
 
@@ -23,21 +23,21 @@ All means **"For Everyone"**
 ## Get started! Select your programming language.
 
 ### Testing
-- <a href="https://github.com/Eveeifyeve/Cordevall-JS/tree/main#readme">JavaScript</a> (Compatable with APIs and Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall.js/tree/main#readme">JavaScript</a> (Compatable with APIs and Interactions)
 
 ### In Development
-- <a href="https://github.com/Eveeifyeve/Cordevall-Lua/tree/main#readme">Lua</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall-Py/tree/main#readme">Python</a> (Compatable with Interactions)
-- <a href="https://github.com/Eveeifyeve/Cordevall-Go/tree/main#readme">Go</a> (Compatable with APIs and Interactions)
-- <a href="https://github.com/Eveeifyeve/Cordevall-Rust/tree/main#readme">Rust</a>
+- <a href="https://github.com/Eveeifyeve/Cordevall.lua/tree/main#readme">Lua</a>
+- <a href="https://github.com/Eveeifyeve/Cordevall.py/tree/main#readme">Python</a> (Compatable with Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall.go/tree/main#readme">Go</a> (Compatable with APIs and Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall.rs/tree/main#readme">Rust</a>
 
 ### Planned
-- <a href="https://github.com/Eveeifyeve/Cordevall-Java/tree/main#readme">Java</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall-Ruby/tree/main#readme">Ruby</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall-PHP/tree/main#readme">PHP</a> (Compatable with Interactions)
-- <a href="https://github.com/Eveeifyeve/Cordevall-Sharp/tree/main#readme">C#</a> (Compatable with Interactions)
-- <a href="https://github.com/Eveeifyeve/Cordevall-Clojure/tree/main#readme">Clojure</a> (Library not Available, Compatable with Interactions)
-- <a href="https://github.com/Eveeifyeve/Cordevall-Dart/tree/main#readme">Dart</a> (Library not Available, Compatable with Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall.java/tree/main#readme">Java</a>
+- <a href="https://github.com/Eveeifyeve/Cordevall.rb/tree/main#readme">Ruby</a>
+- <a href="https://github.com/Eveeifyeve/Cordevall.php/tree/main#readme">PHP</a> (Compatable with Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall.cs/tree/main#readme">C#</a> (Compatable with Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall.clj/tree/main#readme">Clojure</a> (Library not Available, Compatable with Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall.dart/tree/main#readme">Dart</a> (Library not Available, Compatable with Interactions)
 
 ## Test Versions of Cordevall
 - <a href="https://github.com/Eveeifyeve/Cordevall/tree/Alpha#readme">Alpha</a>
