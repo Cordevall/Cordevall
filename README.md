@@ -41,3 +41,4 @@ All means **"For Everyone"**
 
 ## Test Versions of Cordevall
 - <a href="https://github.com/Eveeifyeve/Cordevall/tree/Alpha#readme">Alpha</a>
+- <a href="https://github.com/Eveeifyeve/Cordevall/tree/Beta#readme">Beta</a>
