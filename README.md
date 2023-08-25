@@ -38,7 +38,7 @@ All means **"For Everyone"**
 
 ### In Development
 - <a href="https://github.com/Eveeifyeve/Cordevall.lua/tree/main#readme">.lua (Lua)</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall.js/tree/main#readme">.js (TypeScript)</a> (Compatable with APIs and Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall.js/tree/main#readme">.ts (TypeScript)</a> (Compatable with APIs and Interactions)
 - <a href="https://github.com/Eveeifyeve/Cordevall.py/tree/main#readme">.py (Python)</a> (Compatable with Interactions)
 - <a href="https://github.com/Eveeifyeve/Cordevall.go/tree/main#readme">.go (Go)</a> (Compatable with APIs and Interactions)
 - <a href="https://github.com/Eveeifyeve/Cordevall.rs/tree/main#readme">.rs (Rust)</a>
