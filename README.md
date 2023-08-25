@@ -1,11 +1,13 @@
-<img src="./assets/md/dividers.png">
 <img src="./assets/md/cordevallbannerblurple.png">
+
 
 ### Open-sourced Discord Bot Templates and Installers for Everyone!
 
-<img src="./assets/md/dividers.png">
+
 
 <a href="https://github.com/Eveeifyeve/Cordevall/tree/Main#get-started-select-your-programming-language">Too lazy to scroll? Select a Programming Language here!</a>
+
+<img src="./assets/md/dividers.png">
 
 ## About Cordevall
 Cordevall is an **exceptional open-source Discord bot service** that stands out for its versatility and user-friendly approach. With support for multiple programming languages, including **JavaScript, Python, and Lua**, Cordevall offers a dynamic platform for bot enthusiasts of all coding backgrounds. Its rich library of simple tutorials makes installation and customization a breeze, even for beginners. Whether you're keen on crafting interactive experiences with JavaScript, leveraging the power of Python for data-driven functionalities, or delving into Lua for lightweight efficiency, Cordevall accommodates your preferences seamlessly. Elevating the bot development experience, Cordevall empowers users to bring their creative ideas to life in the Discord ecosystem with remarkable ease and efficiency. What are you waiting for? Use it today!
@@ -22,9 +24,12 @@ Dev means **"Development"**
 
 All means **"For Everyone"**
 
+<img src="./assets/md/dividers.png">
+
 ## Credits:
 - **eveeifyeve** - Creator of Cordevall
 - **StarryTheSuperstar** - Helped with the README.md files and Cordevall for Lua
+
 <img src="./assets/md/dividers.png">
 
 ## Get started! Select your programming language.
@@ -38,6 +43,8 @@ All means **"For Everyone"**
 - <a href="https://github.com/Eveeifyeve/Cordevall.go/tree/main#readme">Go</a> (Compatable with APIs and Interactions)
 - <a href="https://github.com/Eveeifyeve/Cordevall.rs/tree/main#readme">Rust</a>
 
+<img src="./assets/md/dividers.png">
+
 ### Planned
 - <a href="https://github.com/Eveeifyeve/Cordevall.java/tree/main#readme">Java</a>
 - <a href="https://github.com/Eveeifyeve/Cordevall.rb/tree/main#readme">Ruby</a>
@@ -49,3 +56,5 @@ All means **"For Everyone"**
 ## Test Versions of Cordevall
 - <a href="https://github.com/Eveeifyeve/Cordevall/tree/Alpha#readme">Alpha</a>
 - <a href="https://github.com/Eveeifyeve/Cordevall/tree/Beta#readme">Beta</a>
+
+<img src="./assets/md/dividers.png">
