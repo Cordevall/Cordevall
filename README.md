@@ -1,7 +1,7 @@
 <img src="./assets/md/dividers.png">
 <img src="./assets/md/cordevallbannerblurple.png">
 
-### Open-sourced Discord Bot Templates for Everyone!
+### Open-sourced Discord Bot Templates and Installers for Everyone!
 
 <img src="./assets/md/dividers.png">
 
