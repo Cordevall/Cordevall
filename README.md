@@ -35,10 +35,8 @@ All means **"For Everyone"**
 ### Planned
 - <a href="https://github.com/Eveeifyeve/Cordevall-Java/tree/main#readme">Java</a>
 - <a href="https://github.com/Eveeifyeve/Cordevall-Ruby/tree/main#readme">Ruby</a>
-- PHP
-- C#
-
-
+- <a href="https://github.com/Eveeifyeve/Cordevall-PHP/tree/main#readme">PHP</a>
+- <a href="https://github.com/Eveeifyeve/Cordevall-Sharp/tree/main#readme">C#</a>
 
 ## Test Versions of Cordevall
 - <a href="https://github.com/Eveeifyeve/Cordevall/tree/Alpha#readme">Alpha</a>
