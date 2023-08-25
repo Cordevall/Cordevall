@@ -22,7 +22,7 @@ All means **"For Everyone"**
 
 ## Get started! Select your programming language.
 
-### Released
+### Testing
 - <a href="https://github.com/Eveeifyeve/Cordevall-JS/tree/main#readme">JavaScript</a> (Compatable with APIs and Interactions)
 
 ### In Development
