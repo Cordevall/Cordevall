@@ -36,6 +36,8 @@ All means **"For Everyone"**
 - <a href="https://github.com/Eveeifyeve/Cordevall-Ruby/tree/main#readme">Ruby</a>
 - <a href="https://github.com/Eveeifyeve/Cordevall-PHP/tree/main#readme">PHP</a>
 - <a href="https://github.com/Eveeifyeve/Cordevall-Sharp/tree/main#readme">C#</a>
+- Clojure (for Interactions)
+- Dart (for Interactions)
 
 ## Test Versions of Cordevall
 - <a href="https://github.com/Eveeifyeve/Cordevall/tree/Alpha#readme">Alpha</a>
