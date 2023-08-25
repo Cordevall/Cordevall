@@ -1,4 +1,4 @@
-<img src=".assets/md/Cordevall%20banner%20blurple.png">
+<img src=".assets/md/cordevallbannerblurple.png">
 
 ### Open-sourced Discord Bot Templates for Everyone!
 
