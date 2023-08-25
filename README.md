@@ -1,4 +1,5 @@
-# Cordevall
+<img src=".assets/md/Cordevall%20banner%20blurple.png">
+
 ### Open-sourced Discord Bot Templates for Everyone!
 
 <img src="./assets/md/dividers.png">
