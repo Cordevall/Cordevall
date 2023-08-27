@@ -46,8 +46,8 @@ All means **"For Everyone"**
 - <a href="https://github.com/Eveeifyeve/Cordevall.rb/tree/main#readme">.rb (Ruby)</a>
 - <a href="https://github.com/Eveeifyeve/Cordevall.php/tree/main#readme">.php (PHP)</a> (Compatable with Interactions)
 - <a href="https://github.com/Eveeifyeve/Cordevall.cs/tree/main#readme">.cs (C#)</a> (Compatable with Interactions)
-- <a href="https://github.com/Eveeifyeve/Cordevall.clj/tree/main#readme">.clj (Clojure)</a> (Library not Available, Compatable with Interactions)
-- <a href="https://github.com/Eveeifyeve/Cordevall.dart/tree/main#readme">.dart (Dart)</a> (Library not Available, Compatable with Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall.clj/tree/main#readme">.clj (Clojure)</a> (Compatable with Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall.dart/tree/main#readme">.dart (Dart)</a> (Compatable with Interactions)
 
 <img src="./assets/md/dividers.png">
 
