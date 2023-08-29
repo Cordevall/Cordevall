@@ -48,7 +48,7 @@ We plan to release the following items between **2023 to 2029:**
 
 ### In Development
 - <a href="https://github.com/Eveeifyeve/Cordevall.lua/tree/main#readme">.lua (Lua)</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall.js/tree/main#readme">.ts (TypeScript)</a> (Compatable with APIs and Interactions)
+- <a href="https://github.com/Eveeifyeve/Cordevall.ts/tree/main#readme">.ts (TypeScript)</a> (Compatable with APIs and Interactions)
 - <a href="https://github.com/Eveeifyeve/Cordevall.py/tree/main#readme">.py (Python)</a> (Compatable with Interactions)
 - <a href="https://github.com/Eveeifyeve/Cordevall.go/tree/main#readme">.go (Go)</a> (Compatable with APIs and Interactions)
 - <a href="https://github.com/Eveeifyeve/Cordevall.rs/tree/main#readme">.rs (Rust)</a>
