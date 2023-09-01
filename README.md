@@ -38,6 +38,7 @@ We plan to release the following items between **2023 to 2029:**
 ## Credits:
 - **eveeifyeve** - Creator of Cordevall
 - **StarryTheSuperstar** - Helped with the README.md files and Cordevall for Lua
+- **MrFast.js** - Helped with the JS bot
 
 <img src="./assets/md/dividers.png">
 
