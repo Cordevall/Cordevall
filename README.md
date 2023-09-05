@@ -26,7 +26,7 @@ Thats all, see you next time Cordevallers!
 
 ### Our Name and Name Meanings:
 
-**Cordevall** (pronounced "Kaw-duh-fawl")
+**Cordevall** (pronounced "Kaw-duh-faal")
 
 Cord means **"Discord"**
 
