@@ -1,6 +1,6 @@
 <img src="./assets/md/cordevallbannerblurple.png">
 
-### Open-sourced Discord Bot Templates and Installers for Everyone!
+### Open-sourced Custom Discord Bots for Everyone!
 
 <a href="https://github.com/Eveeifyeve/Cordevall/tree/Main#get-started-select-your-programming-language">Too lazy to scroll? Select a Programming Language here!</a>
 
