@@ -78,7 +78,7 @@ We plan to release the following items between **2023 to 2029:**
 <img src="./assets/md/dividers.png">
 
 ## Test Versions of Cordevall
-- <a href="https://github.com/Eveeifyeve/Cordevall/tree/Alpha#readme">Alpha</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall/tree/Beta#readme">Beta</a>
+- <a href="https://github.com/Cordevall/Cordevall/tree/Alpha#readme">Alpha</a>
+- <a href="https://github.com/Cordevall/Cordevall/tree/Beta#readme">Beta</a>
 
 <img src="./assets/md/dividers.png">
