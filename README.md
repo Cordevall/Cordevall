@@ -44,27 +44,27 @@ We plan to release the following items between **2024 to 2030:**
 ## Get started! Select your programming language.
 
 ### Testing
-- <a href="https://github.com/Eveeifyeve/Cordevall.js/tree/main#readme">.js (JavaScript)</a> (Compatable with APIs and Interactions)
+- <a href="https://github.com/Cordevall/Cordevall.js/tree/main#readme">.js (JavaScript)</a> (Compatable with APIs and Interactions)
 
 ### In Development
-- <a href="https://github.com/Eveeifyeve/Cordevall.lua/tree/main#readme">.lua (Lua)</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall.ts/tree/main#readme">.ts (TypeScript)</a> (Compatable with APIs and Interactions)
-- <a href="https://github.com/Eveeifyeve/Cordevall.py/tree/main#readme">.py (Python)</a> (Compatable with Interactions)
-- <a href="https://github.com/Eveeifyeve/Cordevall.go/tree/main#readme">.go (Go)</a> (Compatable with APIs and Interactions)
-- <a href="https://github.com/Eveeifyeve/Cordevall.rs/tree/main#readme">.rs (Rust)</a>
+- <a href="https://github.com/Cordevall/Cordevall.lua/tree/main#readme">.lua (Lua)</a>
+- <a href="https://github.com/Cordevall/Cordevall.ts/tree/main#readme">.ts (TypeScript)</a> (Compatable with APIs and Interactions)
+- <a href="https://github.com/Cordevall/Cordevall.py/tree/main#readme">.py (Python)</a> (Compatable with Interactions)
+- <a href="https://github.com/Cordevall/Cordevall.go/tree/main#readme">.go (Go)</a> (Compatable with APIs and Interactions)
+- <a href="https://github.com/Cordevall/Cordevall.rs/tree/main#readme">.rs (Rust)</a>
 
 ### Planned
-- <a href="https://github.com/Eveeifyeve/Cordevall.jar/tree/main#readme">.jar (Java)</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall.rb/tree/main#readme">.rb (Ruby)</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall.php/tree/main#readme">.php (PHP)</a> (Compatable with Interactions)
-- <a href="https://github.com/Eveeifyeve/Cordevall.cs/tree/main#readme">.cs (C#)</a> (Compatable with Interactions)
-- <a href="https://github.com/Eveeifyeve/Cordevall.clj/tree/main#readme">.clj (Clojure)</a> (Compatable with Interactions)
-- <a href="https://github.com/Eveeifyeve/Cordevall.dart/tree/main#readme">.dart (Dart)</a> (Compatable with Interactions)
+- <a href="https://github.com/Cordevall/Cordevall.jar/tree/main#readme">.jar (Java)</a>
+- <a href="https://github.com/Cordevall/Cordevall.rb/tree/main#readme">.rb (Ruby)</a>
+- <a href="https://github.com/Cordevall/Cordevall.php/tree/main#readme">.php (PHP)</a> (Compatable with Interactions)
+- <a href="https://github.com/Cordevall/Cordevall.cs/tree/main#readme">.cs (C#)</a> (Compatable with Interactions)
+- <a href="https://github.com/Cordevall/Cordevall.clj/tree/main#readme">.clj (Clojure)</a> (Compatable with Interactions)
+- <a href="https://github.com/Cordevall/Cordevall.dart/tree/main#readme">.dart (Dart)</a> (Compatable with Interactions)
 
 <img src="/assets/md/dividers.png">
 
 ## Test Versions of Cordevall
-- <a href="https://github.com/Eveeifyeve/Cordevall/tree/Alpha#readme">Alpha</a>
-- <a href="https://github.com/Eveeifyeve/Cordevall/tree/Beta#readme">Beta</a>
+- <a href="https://github.com/Cordevall/Cordevall/tree/Alpha#readme">Alpha</a>
+- <a href="https://github.com/Cordevall/Cordevall/tree/Beta#readme">Beta</a>
 
 <img src="/assets/md/dividers.png">
