@@ -1,15 +1,15 @@
-<img src="./assets/md/cordevallbannerblurple.png">
+<img src="/assets/md/cordevallbannerblurple.png">
 
 ### Open-sourced Discord Bot Templates and Installers for Everyone!
 
-<a href="https://github.com/Eveeifyeve/Cordevall/tree/Main#get-started-select-your-programming-language">Too lazy to scroll? Select a Programming Language here!</a>
+<a href="https://github.com/Cordevall/Cordevall/tree/Main#get-started-select-your-programming-language">Too lazy to scroll? Select a Programming Language here!</a>
 
-<img src="./assets/md/dividers.png">
+<img src="/assets/md/dividers.png">
 
 ## About Cordevall
 Cordevall is an **exceptional open-source Discord bot service** that stands out for its versatility and user-friendly approach. With support for multiple programming languages, including **JavaScript, Python, and Lua**, Cordevall offers a dynamic platform for bot enthusiasts of all coding backgrounds. Its rich library of simple tutorials makes installation and customization a breeze, even for beginners. Whether you're keen on crafting interactive experiences with JavaScript, leveraging the power of Python for data-driven functionalities, or delving into Lua for lightweight efficiency, Cordevall accommodates your preferences seamlessly. Elevating the bot development experience, Cordevall empowers users to bring their creative ideas to life in the Discord ecosystem with remarkable ease and efficiency. What are you waiting for? Use it today!
 
-<img src="./assets/md/dividers.png">
+<img src="/assets/md/dividers.png">
 
 ### Our Name and Name Meanings:
 
@@ -33,13 +33,13 @@ We plan to release the following items between **2024 to 2030:**
 - 2029: Release Custom Libraries for TypeScript, Java and PHP and Test Custom Libraries for Ruby, Clojure and Dart
 - 2030: Release Custom Libraries for Ruby, Clojure and Dart
 
-<img src="./assets/md/dividers.png">
+<img src="/assets/md/dividers.png">
 
 ## Credits:
 - **eveeifyeve** - CEO and Co-Founder of Cordevall
 - **StarryTheSuperstar** - Executive Director and Co-Founder of Cordevall
 
-<img src="./assets/md/dividers.png">
+<img src="/assets/md/dividers.png">
 
 ## Get started! Select your programming language.
 
@@ -61,10 +61,10 @@ We plan to release the following items between **2024 to 2030:**
 - <a href="https://github.com/Eveeifyeve/Cordevall.clj/tree/main#readme">.clj (Clojure)</a> (Compatable with Interactions)
 - <a href="https://github.com/Eveeifyeve/Cordevall.dart/tree/main#readme">.dart (Dart)</a> (Compatable with Interactions)
 
-<img src="./assets/md/dividers.png">
+<img src="/assets/md/dividers.png">
 
 ## Test Versions of Cordevall
 - <a href="https://github.com/Eveeifyeve/Cordevall/tree/Alpha#readme">Alpha</a>
 - <a href="https://github.com/Eveeifyeve/Cordevall/tree/Beta#readme">Beta</a>
 
-<img src="./assets/md/dividers.png">
+<img src="/assets/md/dividers.png">
