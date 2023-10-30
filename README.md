@@ -38,13 +38,13 @@ All means **"For Everyone"**
 
 ## Our Roadmap
 We plan to release the following items between **2024 to 2030:**
-- 2023: Release Cordevall with JavaScript, Python, Lua, Rust and Go and Test TypeScript, Java 
-- 2024: Release TypeScript and Java and Test C#, Ruby and PHP and the Cordevall App
-- 2025: Release the Cordevall App, C#, Ruby and PHP and Test Clojure, Dart and Custom Libraries for JavaScript, Lua and Python
-- 2026: Release Clojure, Dart and Custom Libraries for JavaScript, Lua and Python and Test Custom Libraries for Rust, Go and C#
-- 2027: Release Custom Libraries for Rust, Go and C# and Test Custom Libraries for TypeScript, Java and PHP
-- 2028: Release Custom Libraries for TypeScript, Java and PHP and Test Custom Libraries for Ruby, Clojure and Dart
-- 2029: Release Custom Libraries for Ruby, Clojure and Dart
+- 2024: Release Cordevall with JavaScript, Python, Lua, Rust and Go and Test TypeScript, Java 
+- 2025: Release TypeScript and Java and Test C#, Ruby and PHP and the Cordevall App
+- 2026: Release the Cordevall App, C#, Ruby and PHP and Test Clojure, Dart and Custom Libraries for JavaScript, Lua and Python
+- 2027: Release Clojure, Dart and Custom Libraries for JavaScript, Lua and Python and Test Custom Libraries for Rust, Go and C#
+- 2028: Release Custom Libraries for Rust, Go and C# and Test Custom Libraries for TypeScript, Java and PHP
+- 2029: Release Custom Libraries for TypeScript, Java and PHP and Test Custom Libraries for Ruby, Clojure and Dart
+- 2030: Release Custom Libraries for Ruby, Clojure and Dart
 
 <img src="./assets/md/dividers.png">
 
