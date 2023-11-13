@@ -68,3 +68,5 @@ We plan to release the following items between **2024 to 2030:**
 - <a href="https://github.com/Cordevall/Cordevall/tree/Beta#readme">Beta</a>
 
 <img src="/assets/md/dividers.png">
+
+Copyright © 2023 Cordevall Inc.
